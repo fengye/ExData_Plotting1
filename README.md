@@ -1,3 +1,9 @@
+# How to run
+* Extract household_power_consumption.zip to the same folder.
+* Run source(plot[1,2,3,4].R) and get the result PNG file(s)!
+
+## Original README below
+
 ## Introduction
 
 This assignment uses data from
